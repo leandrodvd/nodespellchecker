@@ -12,4 +12,4 @@ just execute
 <code>node app.js "Isto é um tesssste"</code>
 
 Output:
-Total de erros encontrados:1
+_Total de erros encontrados:1_
