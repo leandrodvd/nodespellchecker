@@ -4,4 +4,4 @@ A simple node app that executes a spellcheck (ortography checker) in a sentence 
 #how to run it ?
 
 just execute
-<code>node app.js "<sentence>"</code>
+<code>node app.js \"<sentence>\"</code>
